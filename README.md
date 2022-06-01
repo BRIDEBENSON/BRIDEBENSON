@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BRIDEBENSON
-- 👀 I’m interested in doing coding,astronomy and calligraphy among a lot of other things
-- 🌱 I’m currently learning BTech in CSBS at RSET
+- 👀 I’m interested in doing coding, astronomy and calligraphy among a lot of other things
+- 🌱 I’m currently studying BTech in CSBS at RSET
 - 📫 How to reach me - bridebenson007@gmail.com
 
 <!---
