@@ -4,7 +4,7 @@
 
 Aspiring Software Developer | Passionate about AI and Astronomy 🌌
 
-I'm a final-year BTech student specializing in Computer Science and Business Systems. With a love for unraveling the mysteries of the universe and solving real-world problems with technology, I bring a unique blend of curiosity and expertise to my projects. 
+I'm a final-year BTech student specializing in Computer Science and Business Systems. I chair my college's Astronomy Club and enjoy hosting events that inspire others to gaze at the stars and dream big! With a love for unraveling the mysteries of the universe and solving real-world problems with technology, I bring a unique blend of curiosity and expertise to my projects. 
 
 ---
 
@@ -21,7 +21,7 @@ I'm a final-year BTech student specializing in Computer Science and Business Sys
 
 ## 🚀 Current Focus
 
-- 🌌 **Constellation Identification and Command Generation for Telescope Alignment**
+- 🌌 **Constellation Identification and Telescope Alignment**
    - Developing AI-powered tools for identifying constellations and automating telescope positioning.
    - Utilizing YOLO NAS Pose and OpenCV for robust celestial mapping.
 
@@ -34,25 +34,18 @@ I'm a final-year BTech student specializing in Computer Science and Business Sys
 
 ---
 
-## ✨ Fun Fact
-
-I chair my college's Astronomy Club and enjoy hosting events that inspire others to gaze at the stars and dream big! 🌠
-
----
-
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Bride's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrideBenson&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrideBenson&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 🌱 Let's Collaborate!
 
 I'm always open to working on exciting projects or contributing to open-source initiatives. Let's create something amazing together!
-
-
-<!---
-BRIDEBENSON/BRIDEBENSON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
